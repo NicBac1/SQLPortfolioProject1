@@ -14,5 +14,5 @@ The analysis includes extracting and summarizing data related to these key areas
 This component includes an overview of prices for airfare and lodging for trips to Hawaii in 2022. The analysis aims to help understand and visualize the cost dynamics involved in planning a trip to Hawaii.
 
 Explore the interactive dashboard for this analysis on Tableau:
-Hawaii Travel Dashboard
+[Hawaii Travel Dashboard](https://public.tableau.com/app/profile/nicholas.s.bacakos/viz/HawaiiTravelDashboard/Dashboard1)
 
