@@ -1,4 +1,5 @@
 #SQL Portfolio Project 1
+
 This project utilizes SQL, Excel, and Tableau to gather, clean, and analyze large datasets. It consists of two main components:
 
 1. COVID-19 Data Analysis (DataQueeryScriptsCovid2022.sql)
