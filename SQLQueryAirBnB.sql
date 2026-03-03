@@ -120,12 +120,12 @@ ORDER BY id
 
 
 
- --/ Export issue with above. Copied from results pane and pasted in excel. Checked row count via below quer
 
 
 SELECT
 COUNT(id)
 FROM [AirBnB].[dbo].[listings]
+
 
 
 
