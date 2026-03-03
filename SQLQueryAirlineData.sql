@@ -1,5 +1,5 @@
 
---/https://www.bts.gov/topics/airlines-and-airports/airline-codes - Codes for respected airlines "carrier"
+--/ https://www.bts.gov/topics/airlines-and-airports/airline-codes - Codes for respected airlines "carrier"
 --/ DB1B Survey Key https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FKF, https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FKF
 
 --/Looking at Top 1000 rows for main table to have more accurate understanding of the data set./
@@ -95,5 +95,6 @@ WHERE DestState = 'HI'
 SELECT OriginStateName, AVG(ItinFare) AS 'Average Itinerary Price'
 FROM [Flights to Hawaii 2021]
 GROUP BY OriginStateName
+
 
 
